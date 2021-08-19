@@ -18,7 +18,6 @@ A little more about me...
 -  Monitoring Tools:
         - Nixstats
         - Nagios
-        - Zabbix
         - PRTG
         
  ```
