@@ -1,22 +1,26 @@
 ### Hi Geeks, 👋
-#### _Welcome to my GitHub Profile_
+##### Welcome to my GitHub 
 
+A little more about me...
 
-- ❄️ Working as a cloud support Engineer
+```sh
+- Name : Sruthy Manohar
 
-- ❄️ Cloud platform
+- Cloud platform
         -Aws cloud
 
-- ❄️ Operating Systems:
+-  Operating Systems:
         - RedHat Linux Release
         - Ubuntu
         - CentOS
 
-- ❄️- Monitoring Tools:
+-  Monitoring Tools:
         - Nixstats
         - Nagios
         - Zabbix
         - PRTG
+        
+ ```
         
         
 
