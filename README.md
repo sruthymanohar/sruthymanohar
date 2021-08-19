@@ -1,6 +1,8 @@
 ### Hi Geeks, 👋
 ##### Welcome to my GitHub 
 
+## Vistors ![Vistor Count](https://profile-counter.glitch.me/{sruthymanohar}/count.svg)
+
 A little more about me...
 
 ```sh
