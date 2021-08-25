@@ -9,6 +9,16 @@ A little more about me...
 
 - Cloud platform
         -Aws cloud
+          -EBS
+          -EFS
+          -RDS
+          -S3
+          -Load balancer
+          -Autoscaling
+          -Route53
+          -ACM (AWS certificate manger)
+          -AMI
+          -IAM
 
 -  Operating Systems:
         - RedHat Linux Release
@@ -19,6 +29,7 @@ A little more about me...
         - Nixstats
         - Nagios
         - PRTG
+        - Cloud Watch
         
  ```
         
