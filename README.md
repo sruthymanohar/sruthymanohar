@@ -9,6 +9,7 @@ A little more about me...
 
 - Cloud platform
         -Aws cloud
+          -VPC
           -EBS
           -EFS
           -RDS
