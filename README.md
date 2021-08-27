@@ -22,7 +22,8 @@ A little more about me...
           -ACM (AWS certificate manger)
           -AMI
           -IAM
-          -Terraform
+       -Terraform
+       Provider :AWS
 
 -  Operating Systems:
         - RedHat Linux Release
