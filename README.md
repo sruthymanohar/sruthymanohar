@@ -23,7 +23,7 @@ A little more about me...
           -AMI
           -IAM
        -Terraform
-       Provider :AWS
+          -Provider :AWS
 
 -  Operating Systems:
         - RedHat Linux Release
