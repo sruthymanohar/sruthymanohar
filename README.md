@@ -2,11 +2,10 @@
 ##### Welcome to my GitHub 
 
 
-A little more about me...
 
 ```sh
-- Name : Sruthy Manohar
-
+- 👋 Hi, I'm Sruthy Manohar
+- Working as a cloud support Engineer
 - Cloud platform
         -Aws cloud
           -Ec2
