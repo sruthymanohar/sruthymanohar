@@ -4,7 +4,9 @@
 
 ```sh
 - Hi,I'm Sruthy Manohar
+
 - Working as a cloud support Engineer
+
 - Cloud platform
         -Aws cloud
           -Ec2
