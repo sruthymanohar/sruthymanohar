@@ -25,7 +25,7 @@
        -Terraform
           -Provider :AWS
        -Anisble   
-          -Ansibile roles
+          -Ansible roles
 
 -  Operating Systems:
         - RedHat Linux Release
