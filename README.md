@@ -5,7 +5,7 @@
 ```sh
 - Hi,I'm Sruthy Manohar
 
-- Working as a cloud support Engineer
+- Working as a Devops Engineer
 
 - Cloud platform
         -Aws cloud
@@ -26,6 +26,10 @@
           -Provider :AWS
        -Anisble   
           -Ansible roles
+  - Micro Services
+      - Docker
+      - Docker swarm
+      
 
 -  Operating Systems:
         - RedHat Linux Release
@@ -46,3 +50,12 @@
    </a>       
         
 
+<div id="badges">
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  
+</div>
