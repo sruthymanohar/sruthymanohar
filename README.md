@@ -8,6 +8,13 @@ I'm a passionate **DevOps Engineer** with hands-on experience in automating, dep
 
 ---
 
+
+#### 🏆 Certifications
+
+- **Kubernetes Certified Administrator (CKA)**
+
+---
+
 #### 🛠️ Skills & Tools
 
 - **DevOps / GitOps**
