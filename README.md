@@ -6,7 +6,8 @@
 - Hi,I'm Sruthy Manohar
 
 - Working as a Devops Engineer
-
+- Devops
+- Gitops
 - Cloud platform
         -Aws cloud
           -Ec2
@@ -27,6 +28,7 @@
        -Anisble   
           -Ansible roles
   - Micro Services
+      - kubernetes (HELM)
       - Docker
       - Docker swarm
       
